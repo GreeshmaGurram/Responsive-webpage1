@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+    padding: 25px;
+}
+
+.nav-link-selcted-text {
+    color: #b70000;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://insanelygoodrecipes.com/wp-content/uploads/2021/12/Spaghetti-Bolognese-with-Basil-in-a-Plate.jpg");
+    height: 430px;
+    background-size: cover;
+}
+
+.instant-pasta-container1 {
+    background-image: url("https://img.freepik.com/free-photo/side-close-up-view-pasta-with-meat-left-side-table-pasta-with-meat-gravy_140725-117254.jpg");
+    background-size: cover;
+    height: 300px;
+}
+
+.insta-pasta-subcontainer {
+    width: 60%;
+}
+
+.bambino-heading {
+    font-family: "Brush Script MT";
+    font-size: 35px;
+    font-weight: 400;
+    color: #d70000;
+}
+
+.bambino-subheading {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.know-more-button {
+    border: 0px;
+    height: 50px;
+    width: 140px;
+    border-radius: 10px;
+    color: white;
+    background-color: #9b0000;
+    padding: 12px;
+}
+
+.instant-pasta-container2 {
+    background-image: url("https://img.freepik.com/premium-photo/penne-pasta-with-tomato-meat-bolognese-sauce-fresh-basil-black-plate-dark-background-side-view-close-up_166116-4393.jpg");
+    background-size: cover;
+    height: 300px;
+}
+
+.outline {
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+.instant-pasta-container3 {
+    background-image: url("https://www.budgetbytes.com/wp-content/uploads/2023/02/AlfredoSaucepour-268x200.jpg");
+    background-size: cover;
+    height: 200px;
+}
+
+.instant-pasta-container4 {
+    background-image: url("https://www.mygorgeousrecipes.com/wp-content/uploads/2020/05/Leftover-Roast-Chicken-Pasta-Quick-and-Easy-1.jpg");
+    background-size: cover;
+    height: 200px;
+}
+
+.instant-pasta-container5 {
+    background-image: url("https://www.saltandlavender.com/wp-content/uploads/2022/01/creamy-salmon-pasta-1.jpg");
+    background-size: cover;
+    height: 200px;
+}
+
+.image-container {
+    border: solid 1px grey;
+    border-radius: 10px;
+}
+
+.banner-section-bg-container2 {
+    background-image: url("https://i.pinimg.com/1200x/f8/e0/63/f8e0630f4da9bdee0f91c282dadb9c16.jpg");
+    height: 550px;
+    background-size: cover;
+}
+
+.banner-section-bg-container3 {
+    background-image: url("https://homecookworld.com/wp-content/uploads/2021/04/pasta-shapes-red-background.jpg");
+    height: 550px;
+    background-size: cover;
+}
+
+.logo-image {
+    height: 90px;
+    width: 90px;
+}
+
+.products-heading {
+    color: #9b0000;
+    font-family: "Brush Script MT";
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.products-subheading {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.anchor-els {
+    color: grey;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color: grey;
+}
+
+.pasta-stories-heading {
+    color: white;
+    font-family: "Brush Script MT";
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.pasta-stories-subheading {
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.pasta-stories-para {
+    color: white;
+}
+
+.know-more-button2 {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+.subscribe-container {
+    background-color: #EBECF0;
+    padding: 20px;
+}
+
+.subscribe-para {
+    font-family: "Brush Script MT";
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.subscribe-button {
+    background-color: #9b0000;
+    color: white;
+}
+
+.horizontal-line {
+    background-color: black;
+}
